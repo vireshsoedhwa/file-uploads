@@ -1,4 +1,4 @@
 django>=3.0.7
 psycopg2==2.8
 djangorestframework==3.11
-pygments==2.6
+pygments==2.7.4
